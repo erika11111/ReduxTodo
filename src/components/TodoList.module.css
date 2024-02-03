@@ -1,0 +1,10 @@
+.ul {
+  display: inline-block;
+  text-align: left;
+  list-style: none;
+  padding: 10px;
+}
+.li {
+  padding: 10px;
+  font-size: large;
+}
